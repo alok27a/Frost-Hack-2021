@@ -17,7 +17,7 @@ No such platforms have ever been made which provide trusted statistics as well a
 
 ### Installation Instruction📥:
 <p>
-1) Download the zip file by <a href="App-apk (1).zip">clicking here</a><br>
+1) Download the zip file by <a href="https://drive.google.com/file/d/1M6aNhSm43FanOQ1smsCq4pc-pTAJqW1j/view?usp=sharing">clicking here</a><br>
 2) Unzip the file downloaded
 </p>
 
