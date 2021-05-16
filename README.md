@@ -75,4 +75,7 @@ We have also come up with a website that highlights the features of our Applicat
 - Filmora
 - Times Now
 
-
+### Future Prospects 🔮
+- Collaborating with NGOs to create new pathways for volunteers and the people who are in need at a global level.
+- The organizations will be able to extend there resources to help more people.
+- It will create a pool of volunteers and resources not only during pandemic but also in post pandemic times.
