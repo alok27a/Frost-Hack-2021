@@ -76,13 +76,3 @@ We have also come up with a website that highlights the features of our Applicat
 - Times Now
 
 
-### Additional Features🆕:
-<p>
- 
-
-</p>
-
-### Conclusion 🔍:
-<p>
-  
-</p>
